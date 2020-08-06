@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Alex (Lexouden) van den Oudenhoven.
+
+My current Techstack includes:
+- Node.js
+- Apollo GraphQL
+- Javascript
+- Flutter
+- Dart
+- Firebase
+
+Currently Learning:
+- React
+- GraphQL
+- Java
+
 <!--
 **Lexouden/Lexouden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
