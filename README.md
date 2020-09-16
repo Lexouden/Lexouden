@@ -11,7 +11,7 @@ My current Techstack includes:
 - Firebase
 
 Currently Learning:
-- React
+- ReactJS
 - GraphQL
 - C++
 
