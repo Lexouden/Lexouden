@@ -13,7 +13,7 @@ My current Techstack includes:
 Currently Learning:
 - React
 - GraphQL
-- Java
+- C++
 
 <!--
 **Lexouden/Lexouden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
