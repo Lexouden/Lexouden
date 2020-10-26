@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lexouden&label=Profile%20views&color=0e75b6&style=flat" alt="lexouden" /> </p>
 
-- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard)
+- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard) & [discordjs-gatekeeper](https://github.com/lexouden/discordjs-gatekeeper)
 
 - 🌱 I’m currently learning **React and C++**
 
