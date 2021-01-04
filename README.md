@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex aka Lexouden</h1>
 <h3 align="center">A young up and coming Developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard) & [bump-royale](https://github.com/lexouden/bump-royale)
+- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard), [monolith-package-manager](https://github.com/lexouden/monolith-package-manager) & [bump-royale](https://github.com/lexouden/bump-royale)
 
 - 🌱 I’m currently learning **React and Symphony**
 
