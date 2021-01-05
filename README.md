@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard), [monolith-package-manager](https://github.com/lexouden/monolith-package-manager) & [bump-royale](https://github.com/lexouden/bump-royale)
 
-- 🌱 I’m currently learning **React and Symphony**
+- 🌱 I’m currently learning **React and Symfony**
 
 - ⚡ Fun fact **I am the Co-Owner of the Team Bicep Discord server**
 
