@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lexouden</h1>
 <h3 align="center">A young Developer from The Netherlands</h3>
 
-- 🔭 I’m currently working on [bot-dashboard](https://github.com/ogafit/bot-dashboard)
+- 🔭 I’m currently working on [bot-dashboard](https://github.com/oga-fit/bot-dashboard)
 
 - 🌱 I’m currently learning **NextJS & Symfony**
 
