@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex aka Lexouden</h1>
 <h3 align="center">A young up and coming Developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard) & [bump-royale](https://github.com/lexouden/bump-royale)
+- 🔭 I’m currently working on [bot-dashboard](https://oga-fit.github.io/bot-dashboard) & [bicep-bot](https://github.com/ogafit/bicep-bot)
 
-- 🌱 I’m currently learning **React and Symfony**
+- 🌱 I’m currently learning **NextJS and Symfony**
 
 - ⚡ Fun fact **I am the Co-Owner of the Team Bicep Discord server**
 
