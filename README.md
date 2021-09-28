@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bot-dashboard](https://github.com/oga-fit/bot-dashboard)
 
-- 🌱 I’m currently learning **NextJS & Symfony**
+- 🌱 I’m currently learning **NestJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
