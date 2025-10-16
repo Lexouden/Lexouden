@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Alex from the Netherlands<br><br>- 🔭 I’m working as a Medior Software Developer<br>- 📚 I'm currently learning Kubernetes and k3s<br>- ⚡ In my free time I work on a private Discord Bot</p>
+<p align="left">I'm Alex from the Netherlands<br><br>- 🔭 I’m working as a Medior Software Developer<br>- 📚 I'm currently learning Kubernetes and Ansible<br>- ⚡ In my free time I work on a private Discord Bot</p>
 
 ###
 
